@@ -1,0 +1,20 @@
+// libs
+@import "libs";
+
+// global
+@import "vars";
+@import "basic";
+@import "global";
+@import "mixins";
+@import "fonts";
+@import "animation";
+
+// other
+@import "other/modal";
+
+// blocks
+@import "blocks/header";
+@import "blocks/footer";
+
+// media
+@import "media";
